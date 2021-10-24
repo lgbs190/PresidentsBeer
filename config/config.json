@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd1089bae1543dd0f64b1a69075fb8b6dfafc694b",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd1089bae1543dd0f64b1a69075fb8b6dfafc694b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PresidentsBeer",
+  "SYMBOL": "PBeer",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 3500000000000000000,
+  "DISPLAY_COST": 3.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/presidentsbeer",
+  "SHOW_BACKGROUND": true
+}
